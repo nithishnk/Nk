@@ -553,8 +553,8 @@ body:after {
       .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover, .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a.active {
         color: #eb0029 !important; }
   .sticky-wrapper .shrink {
-    padding-top: 5px !important;
-    padding-bottom: 5px !important; }
+    padding-top: 2.5px !important;
+    padding-bottom: 2.5px !important; }
 
 /* Blocks */
 .site-blocks-cover {
